@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "haikalrozhan",
+    "name": "shelfie_app",
     "slug": "shelfie_app",
+    "schema": "haikalrozhan",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
